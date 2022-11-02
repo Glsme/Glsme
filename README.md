@@ -17,7 +17,7 @@
 
 </br><br/>
 
-![Hano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glsme&show_icons=true&theme=gruvbox)
+![Hano's GitHub stats](https://github-readme-stats.vercel.app/api?username=glsme&show_icons=true&theme=gruvbox)
 
 </br><br/>
 
