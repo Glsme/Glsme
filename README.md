@@ -1,5 +1,10 @@
-### 안녕하세요!      
-### iOS 개발자 홍석준입니다 🥳  
+# 안녕하세요! iOS 개발자 홍석준입니다 🥳
+
+### About me
+- 📬 E-mail: glasses.str.man@gmail.com
+- 😎 linked-in: [Profile](https://www.linkedin.com/in/seokjune-hong-484623245/)
+- ☘️ blog: [하노의 일일일코](https://glsman-111co.tistory.com)
+
 </br><br/>
 
 ### 🛠️ Tech Stacks 🛠️ </br>
