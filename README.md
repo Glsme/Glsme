@@ -29,6 +29,8 @@
 </br><br/>
 
 ![Hano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glsme&show_icons=true&theme=gruvbox)
+</br><br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmo7957)](https://solved.ac/kmo7957/)
 
 </br><br/>
 
